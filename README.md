@@ -1,5 +1,5 @@
-# Data-Science-Learning-Journey
-# 📚 My Data Science Learning Journey
+# **Data-Science-Learning-Journey**
+# My Data Science Learning Journey
 
 Welcome to my structured learning repository. This is where I document my daily practice and progress in Data Science, focusing on **Pandas, NumPy, and Data Visualization**.
 
@@ -12,8 +12,8 @@ I follow a strict learning framework for every topic:
 | Modules | Topic | Notebook Link | Key Learning |
 | :--- | :--- | :--- | :--- |
 | **Module 1** | Basics & Exploration | https://github.com/Aryan1727/Data-Science-Learning-Journey/tree/main/Data-Science-learning-Journey/01_Pandas/Day1_Learnings | `head()`, `tail()`, `shape`, `info()`, `describe()`, filtering, sorting |
-| **Module 2** | Data Cleaning (Missing Values) | [Coming Soon](#) | Handling `NaN`, filling/dropping null values |
-| **Module 3** | Groupby & Aggregations | [Coming Soon](#) | `groupby()`, `mean()`, `count()` |
+| **Module 2** | Data Cleaning, Analysis & Feature Engineering  | https://github.com/Aryan1727/Data-Science-Learning-Journey/tree/main/01_Pandas/Module%202%20%E2%80%94%20Data%20Cleaning%20%26%20Feature%20Engineering | Handling `NaN`,`isnull()`, `fillna()`, `dropna()`, `astype()`, `groupby()`, `agg()`, `pd.cut()`|
+| **Module 3** |Built Analytical thinking & Basic Analysis | [Coming Soon](#) | Advanced filtering, pivot tables|
 
 ## 🔢 2. NumPy Library
 | Module | Topic | Notebook Link | Key Learning |
