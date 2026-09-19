@@ -11,7 +11,7 @@ I follow a strict learning framework for every topic:
 ## 🐍 1. Pandas Library
 | Modules | Topic | Notebook Link | Key Learning |
 | :--- | :--- | :--- | :--- |
-| **Module 1** | Basics & Exploration | 📓 View Notebook](01_Pandas/Module%201%20-%20Pandas%20Fundamental/Pandas_Module1_learnings.ipynb) | `head()`, `tail()`, `shape`, `info()`, `describe()`, filtering, sorting |
+| **Module 1** | Basics & Exploration | [📓 View Notebook](01_Pandas/Module%201%20-%20Pandas%20Fundamental/Pandas_Module1_learnings.ipynb) | `head()`, `tail()`, `shape`, `info()`, `describe()`, filtering, sorting |
 | **Module 2** | Data Cleaning, Analysis & Feature Engineering  | [Learnings](01_Pandas/Module%202%20--%20Data%20Cleaning%20%26%20Feature%20Engineering/Pandas_Module2_learnings.ipynb) · [Practice](01_Pandas/Module%202%20--%20Data%20Cleaning%20%26%20Feature%20Engineering/Pandas_Module2_Practice.ipynb) | Handling `NaN`,`isnull()`, `fillna()`, `dropna()`, `astype()`, `groupby()`, `agg()`, `pd.cut()`|
 | **Module 3** |Built Analytical thinking & Basic Analysis | [Coming Soon](#) | Advanced filtering, pivot tables|
 
