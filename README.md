@@ -1,4 +1,4 @@
-# **Data-Science-Learning-Journey**
+# Data-Science-Learning-Journey
 # My Data Science Learning Journey
 
 Welcome to my structured learning repository. This is where I document my daily practice and progress in Data Science, focusing on **Pandas, NumPy, and Data Visualization**.
