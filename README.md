@@ -18,7 +18,7 @@ I follow a strict learning framework for every topic:
 ## 🔢 2. NumPy Library
 | Module | Topic | Notebook Link | Key Learning |
 | :--- | :--- | :--- | :--- |
-| **Module 1** | Arrays & Basic Operations | [Coming Soon](#) | Creating arrays, slicing, broadcasting |
+| **Module 1** | Arrays & Basic Operations | [Coming Soon](#) | Creating arrays, slicing, broadcasting, operations |
 
 ## 📊 3. Data Visualization (Matplotlib / Seaborn)
 | Module | Topic | Notebook Link | Key Learning |
